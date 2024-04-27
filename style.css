@@ -1,0 +1,36 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 100%;
+  animation: gradient-animation 60s ease infinite;
+}
+
+.name {
+  font-family: "PT Serif", serif;
+  font-weight: 200px;
+  font-style: normal;
+  font-size: 4rem;
+  color: #ffffff;
+}
+
+/* .profile-picture {
+  display: block;
+  width: 70%;
+  height: auto;
+} */
+
+.contact {
+  text-align: center;
+  border-radius: 1rem;
+  justify-content: center;
+  background-color: antiquewhite;
+}
+
+.contact {
+  justify-content: center;
+}
+
+.navbar {
+  font-family: "PT Serif", serif;
+  font-weight: 200px;
+  font-style: normal;
+}
